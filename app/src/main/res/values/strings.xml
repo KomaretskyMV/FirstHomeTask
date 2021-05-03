@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My First Home Task</string>
+    <string name="product_search">Поиск товаров</string>
+    <string name="search">Поиск</string>
+    <string name="limited_offer">Предложение ограничено</string>
+    <string name="best_price">Лучшая цена</string>
+    <string-array name="catalog">
+        <item>Каталог</item>
+        <item>Сад</item>
+        <item>Стройматериалы</item>
+        <item>Столярные изделия</item>
+        <item>Окна и двери</item>
+        <item>Электротовары</item>
+        <item>Смотреть всё</item>
+    </string-array>
+    <string-array name="limited_offer">
+        <item>Штукатурка</item>
+        <item>Стимулятор</item>
+        <item>Грунтовка</item>
+        <item>Шланг поливной</item>
+        <item>Насос погружной</item>
+        <item>Круг отрезной</item>
+        <item>Радиатор</item>
+        <item>Удобрение</item>
+        <item>Электроводонагреватель</item>
+        <item>Душевая кабина</item>
+    </string-array>
+</resources>
